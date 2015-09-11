@@ -1,0 +1,16 @@
+
+{
+    "ext_libs": {
+    },
+    "queryStringParam": "tc",
+    "mockResponses": {
+        "default": {
+            "/ssp/userAppSlot": {
+                "get": {
+                    "type": "staticFile",
+                    "path": "/mockfiles/ssp.json"
+                }
+            }
+        }
+    }
+}

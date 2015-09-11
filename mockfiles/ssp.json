@@ -1,0 +1,39 @@
+{
+  "state": 0,
+  "data": {
+    "id": 1234,
+    "name": "iamUser",
+    "type": "user",
+    "children": [{
+      "id": 123,
+      "name": "iamApp",
+      "type": "app",
+      "children": [{
+        "id": 12345,
+        "name": "iamSlot",
+        "type": "slot"
+      }, {
+        "id": 12356,
+        "name": "iamSlot",
+        "type": "slot"
+      }]
+    }, {
+      "id": 123555,
+      "name": "iamApp",
+      "type": "app",
+      "children": [{
+        "id ": 12345,
+        "name": "iamSlot",
+        "type": "slot"
+      }, {
+        "id": 12356,
+        "name": "iamSlot",
+        "type": "slot"
+      }]
+    }, {
+      "id": 123666,
+      "name": "iamApp",
+      "type": "app"
+      }]
+  }
+}
